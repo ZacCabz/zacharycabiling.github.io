@@ -1,6 +1,7 @@
-![Zachary Cabiling Logo](https://github.com/ZacCabz/zacharycabiling.github.io/blob/main/Screenshot%202025-05-28%20144437.png)
-
-[Zachary Cabiling Linkedin](www.linkedin.com/in/zachary-cabiling-585abb2a5)
+# Contact Information
+> Email: ZacharyCabiling@gmail.com
+>
+> Phone Number: +1 (717) 686-5947
 
 # **_Related Experience in Cybersecurity_**
 
@@ -21,110 +22,51 @@
 * Analysed and identified which areas of the business needed more robust security training
 * Implemented training courses and procedures for those teams
 
-## Header 2
+* * * 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Projects
+## C Programming Project - Boulder Break
+Boulder break is a 2-dimensional puzzle game. Goal is to help an adventurer collect treasure. Escape from a cave by pushing boulders into holes that may block the exit
 
-### Header 3
+## Python Programming Project - NHL Goal Graphical Display
+Application recreates a new and improved NHL statistics user face. Aims to give the user up-to-date information on NHL goals. Tool can track team dynamics by evaluating the scores of different NHL teams
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+* * * 
+## Example Code from Python
+```python
+// Python code with syntax highlighting.
+def load_teams_data_csv(file_path):
+    try:
+        teams_data = {}
+        with open(file_path, 'r') as file:
+            csvreader = csv.reader(file)
+            for row in csvreader:
+                # Get Team Name
+                team_name = row[0]
+                # Extract goals data for the periods and map them to the team
+                goals_data = {
+                    'Playoff Goals': int(row[3]) if row[3] else None,
+                    '1st Period Goals': int(row[4]) if row[4] else None,
+                    '2nd Period Goals': int(row[5]) if row[5] else None,
+                    '3rd Period Goals': int(row[6]) if row[6] else None,
+                }
+                teams_data[team_name] = goals_data
+        return teams_data
+    except Exception as e:
+        messagebox.showerror("Error", f"Failed to load CSV data: {e}")
+        return {}
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+## Technical Skills
+### Coding Languages
+* Matlab, C, Python, SQL
+  
+### Developer Tools
+* Github, VS Code, Wireshark, PuTTy, Nmap, Zenmap
+
+### Libaries
+* Tkinter
+  
 ```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Thanks for reading my Cybersecurity Profile.
 ```
