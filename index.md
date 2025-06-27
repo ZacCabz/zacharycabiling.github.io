@@ -6,44 +6,44 @@
 # **_Related Experience in Cybersecurity_**
 
 ## ANZ Australia Cyber Security Management Job Simulation on Forage January 2025
-```
+
 * Completed a simulation focussed on identifying cybersecurity threats at ANZ
 * Investigated e-mails to report suspicious items
 * Analysed a Packet Capture file using an open-source tool to identify and investigate any potential threats
-```
+
 
 ## Datacom Cybersecurity Job Simulation on Forage January 2025
-```
+
 * Completed a simulation focussed on how Datacom's cybersecurity team helps protect its clients
 * Investigated a cyberattack and produced a comprehensive report documenting findings
 * Outlined key recommendations to improve a client's cybersecurity posture
 * Conducted a comprehensive risk assessment
-```
+
 
 ## Mastercard Cybersecurity virtual experience program on Forage January 2025
-```
+
 * Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team
 * Helped identify and report security threats such as phishing
 * Analysed and identified which areas of the business needed more robust security training
 * Implemented training courses and procedures for those teams
-```
+
 
 * * * 
 
 # Projects
 ## C Programming Project - Boulder Break
-```
+
 Boulder break is a 2-dimensional puzzle game. Goal is to help an adventurer collect treasure. Escape from a cave by pushing boulders into holes that may block the exit
-```
+
 
 ## Python Programming Project - NHL Goal Graphical Display
-```
+
 Application recreates a new and improved NHL statistics user face. Aims to give the user up-to-date information on NHL goals. Tool can track team dynamics by evaluating the scores of different NHL teams
-```
+
 
 * * * 
 ## Example Code from Python
-```python
+```
 // Python code with syntax highlighting.
 def load_teams_data_csv(file_path):
     try:
@@ -69,19 +69,13 @@ def load_teams_data_csv(file_path):
 
 ## Technical Skills
 ### Coding Languages
-```
 * Matlab, C, Python, SQL
-```
   
 ### Developer Tools
-```
 * Github, VS Code, Wireshark, PuTTy, Nmap, Zenmap
-```
 
 ### Libaries
-```
 * Tkinter
-```
   
 ```
 Thanks for reading my Cybersecurity Profile.
