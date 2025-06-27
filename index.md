@@ -1,3 +1,4 @@
+![Zachary Cabiling Logo](https://github.com/ZacCabz/zacharycabiling.github.io/blob/main/Screenshot%202025-05-28%20144437.png)
 
 [Zachary Cabiling Linkedin](www.linkedin.com/in/zachary-cabiling-585abb2a5)
 
