@@ -1,10 +1,5 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
+[Zachary Cabiling Linkedin](www.linkedin.com/in/zachary-cabiling-585abb2a5)
 
 # **_Related Experience in Cybersecurity_**
 
