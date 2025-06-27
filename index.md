@@ -43,7 +43,7 @@ Application recreates a new and improved NHL statistics user face. Aims to give 
 
 * * * 
 ## Example Code from Python
-```
+```python
 // Python code with syntax highlighting.
 def load_teams_data_csv(file_path):
     try:
