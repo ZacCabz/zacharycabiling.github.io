@@ -67,6 +67,7 @@ def load_teams_data_csv(file_path):
         return {}
 ```
 
+* * * 
 ## Technical Skills
 ### Coding Languages
 * Matlab, C, Python, SQL
@@ -76,7 +77,8 @@ def load_teams_data_csv(file_path):
 
 ### Libaries
 * Tkinter
-  
+
+* * * 
 ```
 Thanks for reading my Cybersecurity Profile.
 ```
