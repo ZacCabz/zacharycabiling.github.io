@@ -6,13 +6,24 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# **_Related Experience in Cybersecurity_**
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## ANZ Australia Cyber Security Management Job Simulation on Forage January 2025
+* Completed a simulation focussed on identifying cybersecurity threats at ANZ
+* Investigated e-mails to report suspicious items
+* Analysed a Packet Capture file using an open-source tool to identify and investigate any potential threats
 
-# Header 1
+## Datacom Cybersecurity Job Simulation on Forage January 2025
+* Completed a simulation focussed on how Datacom's cybersecurity team helps protect its clients
+* Investigated a cyberattack and produced a comprehensive report documenting findings
+* Outlined key recommendations to improve a client's cybersecurity posture
+* Conducted a comprehensive risk assessment
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Mastercard Cybersecurity virtual experience program on Forage January 2025
+* Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team
+* Helped identify and report security threats such as phishing
+* Analysed and identified which areas of the business needed more robust security training
+* Implemented training courses and procedures for those teams
 
 ## Header 2
 
